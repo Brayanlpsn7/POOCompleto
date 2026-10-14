@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/ProgramacaoOrientadaObjetos/">
+    <Project Path="ProgramacaoOrientadaObjetos/ProgramacaoOrientadaObjetos1.csproj" />
+  </Folder>
+  <Project Path="Encapsulamento/Encapsulamento.csproj" />
+  <Project Path="MetodoConstrutor/MetodoConstrutor.csproj" />
+  <Project Path="PilaresPOO/PilaresPOO.csproj" />
+</Solution>
