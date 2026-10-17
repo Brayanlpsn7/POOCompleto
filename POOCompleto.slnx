@@ -2,7 +2,10 @@
   <Folder Name="/ProgramacaoOrientadaObjetos/">
     <Project Path="ProgramacaoOrientadaObjetos/ProgramacaoOrientadaObjetos1.csproj" />
   </Folder>
+  <Project Path="Abstracao/Abstracao.csproj" Id="5b58d02e-646f-41aa-b1d1-13dea7dae7ef" />
   <Project Path="Encapsulamento/Encapsulamento.csproj" />
+  <Project Path="Heranca/Heranca.csproj" Id="16d8f668-01ad-489b-847c-a7aec7a1bf10" />
   <Project Path="MetodoConstrutor/MetodoConstrutor.csproj" />
   <Project Path="PilaresPOO/PilaresPOO.csproj" />
+  <Project Path="Polimorfismo/Polimorfismo.csproj" Id="1735bdcc-f4a6-4fb5-a36b-12b9c4c79060" />
 </Solution>

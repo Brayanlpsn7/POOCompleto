@@ -1,12 +1,457 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\04796279164\\Desktop\\POO\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B58D02E-646F-41AA-B1D1-13DEA7DAE7EF}|Abstracao\\Abstracao.csproj|c:\\users\\04796279164\\desktop\\poo\\abstracao\\exemplos\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B58D02E-646F-41AA-B1D1-13DEA7DAE7EF}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\exemplos\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B58D02E-646F-41AA-B1D1-13DEA7DAE7EF}|Abstracao\\Abstracao.csproj|c:\\users\\04796279164\\desktop\\poo\\abstracao\\exemplos\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B58D02E-646F-41AA-B1D1-13DEA7DAE7EF}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\exemplos\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B58D02E-646F-41AA-B1D1-13DEA7DAE7EF}|Abstracao\\Abstracao.csproj|c:\\users\\04796279164\\desktop\\poo\\abstracao\\exemplos\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B58D02E-646F-41AA-B1D1-13DEA7DAE7EF}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\exemplos\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B58D02E-646F-41AA-B1D1-13DEA7DAE7EF}|Abstracao\\Abstracao.csproj|c:\\users\\04796279164\\desktop\\poo\\abstracao\\exemplos\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B58D02E-646F-41AA-B1D1-13DEA7DAE7EF}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\exemplos\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B58D02E-646F-41AA-B1D1-13DEA7DAE7EF}|Abstracao\\Abstracao.csproj|c:\\users\\04796279164\\desktop\\poo\\abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B58D02E-646F-41AA-B1D1-13DEA7DAE7EF}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\04796279164\\desktop\\poo\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58788675-5F79-2029-4174-36C5B6ADCAD2}|Encapsulamento\\Encapsulamento.csproj|c:\\users\\04796279164\\desktop\\poo\\encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58788675-5F79-2029-4174-36C5B6ADCAD2}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58788675-5F79-2029-4174-36C5B6ADCAD2}|Encapsulamento\\Encapsulamento.csproj|c:\\users\\04796279164\\desktop\\poo\\encapsulamento\\contadordevisitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58788675-5F79-2029-4174-36C5B6ADCAD2}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\contadordevisitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58788675-5F79-2029-4174-36C5B6ADCAD2}|Encapsulamento\\Encapsulamento.csproj|c:\\users\\04796279164\\desktop\\poo\\encapsulamento\\boletim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58788675-5F79-2029-4174-36C5B6ADCAD2}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\boletim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\04796279164\\desktop\\poo\\polimorfismo\\exercicios\\ex3instrumento\\violao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\exercicios\\ex3instrumento\\violao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\04796279164\\desktop\\poo\\polimorfismo\\exercicios\\ex3instrumento\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\exercicios\\ex3instrumento\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\04796279164\\desktop\\poo\\polimorfismo\\exercicios\\ex2calculadora\\calculadoradearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\exercicios\\ex2calculadora\\calculadoradearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\04796279164\\desktop\\poo\\polimorfismo\\exercicios\\ex1saudacao\\saudacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\exercicios\\ex1saudacao\\saudacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\04796279164\\desktop\\poo\\polimorfismo\\exemplos\\somar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\exemplos\\somar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\04796279164\\desktop\\poo\\polimorfismo\\exemplos\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1735BDCC-F4A6-4FB5-A36B-12B9C4C79060}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\exemplos\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58788675-5F79-2029-4174-36C5B6ADCAD2}|Encapsulamento\\Encapsulamento.csproj|c:\\users\\04796279164\\desktop\\poo\\encapsulamento\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58788675-5F79-2029-4174-36C5B6ADCAD2}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|c:\\users\\04796279164\\desktop\\poo\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|c:\\users\\04796279164\\desktop\\poo\\heranca\\ex3veiculo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|solutionrelative:heranca\\ex3veiculo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|c:\\users\\04796279164\\desktop\\poo\\heranca\\ex2func\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|solutionrelative:heranca\\ex2func\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|c:\\users\\04796279164\\desktop\\poo\\heranca\\ex2func\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|solutionrelative:heranca\\ex2func\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|c:\\users\\04796279164\\desktop\\poo\\heranca\\ex3veiculo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|solutionrelative:heranca\\ex3veiculo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|c:\\users\\04796279164\\desktop\\poo\\heranca\\ex1animal\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|solutionrelative:heranca\\ex1animal\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|c:\\users\\04796279164\\desktop\\poo\\heranca\\ex1animal\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|solutionrelative:heranca\\ex1animal\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|c:\\users\\04796279164\\desktop\\poo\\heranca\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|solutionrelative:heranca\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|c:\\users\\04796279164\\desktop\\poo\\heranca\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|solutionrelative:heranca\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|c:\\users\\04796279164\\desktop\\poo\\heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8F668-01AD-489B-847C-A7AEC7A1BF10}|Heranca\\Heranca.csproj|solutionrelative:heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Loja.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Abstracao\\Exemplos\\Loja.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Exemplos\\Loja.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Abstracao\\Exemplos\\Loja.cs",
+              "RelativeToolTip": "Abstracao\\Exemplos\\Loja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:47:50.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sms.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Abstracao\\Exemplos\\Sms.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Exemplos\\Sms.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Abstracao\\Exemplos\\Sms.cs",
+              "RelativeToolTip": "Abstracao\\Exemplos\\Sms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:47:27.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Abstracao\\Exemplos\\Email.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Exemplos\\Email.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Abstracao\\Exemplos\\Email.cs",
+              "RelativeToolTip": "Abstracao\\Exemplos\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:47:03.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INotificador.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Abstracao\\Exemplos\\INotificador.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Exemplos\\INotificador.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Abstracao\\Exemplos\\INotificador.cs",
+              "RelativeToolTip": "Abstracao\\Exemplos\\INotificador.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:32:39.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Abstracao\\Program.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Program.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Abstracao\\Program.cs",
+              "RelativeToolTip": "Abstracao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:31:39.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalculadoraDeArea.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Exercicios\\Ex2Calculadora\\CalculadoraDeArea.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Exercicios\\Ex2Calculadora\\CalculadoraDeArea.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Exercicios\\Ex2Calculadora\\CalculadoraDeArea.cs",
+              "RelativeToolTip": "Polimorfismo\\Exercicios\\Ex2Calculadora\\CalculadoraDeArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:17:23.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Saudacao.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Exercicios\\Ex1Saudacao\\Saudacao.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Exercicios\\Ex1Saudacao\\Saudacao.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Exercicios\\Ex1Saudacao\\Saudacao.cs",
+              "RelativeToolTip": "Polimorfismo\\Exercicios\\Ex1Saudacao\\Saudacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:09:07.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Polimorfismo\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:56:10.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Encapsulamento\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\Program.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Encapsulamento\\Program.cs",
+              "RelativeToolTip": "Encapsulamento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:40:38.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Boletim.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Encapsulamento\\Boletim.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\Boletim.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Encapsulamento\\Boletim.cs",
+              "RelativeToolTip": "Encapsulamento\\Boletim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:45:10.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContadorDeVisitas.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Encapsulamento\\ContadorDeVisitas.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\ContadorDeVisitas.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Encapsulamento\\ContadorDeVisitas.cs",
+              "RelativeToolTip": "Encapsulamento\\ContadorDeVisitas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:29:57.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Instrumento.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Exercicios\\Ex3Instrumento\\Instrumento.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Exercicios\\Ex3Instrumento\\Instrumento.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Exercicios\\Ex3Instrumento\\Instrumento.cs",
+              "RelativeToolTip": "Polimorfismo\\Exercicios\\Ex3Instrumento\\Instrumento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:24:45.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Violao.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Exercicios\\Ex3Instrumento\\Violao.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Exercicios\\Ex3Instrumento\\Violao.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Exercicios\\Ex3Instrumento\\Violao.cs",
+              "RelativeToolTip": "Polimorfismo\\Exercicios\\Ex3Instrumento\\Violao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:26:41.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Exemplos\\Animal.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Exemplos\\Animal.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Exemplos\\Animal.cs",
+              "RelativeToolTip": "Polimorfismo\\Exemplos\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:57:48.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Somar.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Exemplos\\Somar.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Exemplos\\Somar.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Polimorfismo\\Exemplos\\Somar.cs",
+              "RelativeToolTip": "Polimorfismo\\Exemplos\\Somar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:59:20.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Encapsulamento\\Usuario.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\Usuario.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Encapsulamento\\Usuario.cs",
+              "RelativeToolTip": "Encapsulamento\\Usuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:19:03.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\ex2Func\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Heranca\\ex2Func\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\ex2Func\\Funcionario.cs",
+              "RelativeToolTip": "Heranca\\ex2Func\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:37:46.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\ex2Func\\Gerente.cs",
+              "RelativeDocumentMoniker": "Heranca\\ex2Func\\Gerente.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\ex2Func\\Gerente.cs",
+              "RelativeToolTip": "Heranca\\ex2Func\\Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:44:30.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\ex3Veiculo\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Heranca\\ex3Veiculo\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\ex3Veiculo\\Veiculo.cs",
+              "RelativeToolTip": "Heranca\\ex3Veiculo\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:04:14.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\ex3Veiculo\\Carro.cs",
+              "RelativeDocumentMoniker": "Heranca\\ex3Veiculo\\Carro.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\ex3Veiculo\\Carro.cs",
+              "RelativeToolTip": "Heranca\\ex3Veiculo\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:08:09.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\Professor.cs",
+              "RelativeDocumentMoniker": "Heranca\\Professor.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\Professor.cs",
+              "RelativeToolTip": "Heranca\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T23:27:44.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T23:26:45.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\ex1Animal\\Animal.cs",
+              "RelativeDocumentMoniker": "Heranca\\ex1Animal\\Animal.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\ex1Animal\\Animal.cs",
+              "RelativeToolTip": "Heranca\\ex1Animal\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:29:26.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\Aluno.cs",
+              "RelativeDocumentMoniker": "Heranca\\Aluno.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\Aluno.cs",
+              "RelativeToolTip": "Heranca\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T23:27:29.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\ex1Animal\\Cachorro.cs",
+              "RelativeDocumentMoniker": "Heranca\\ex1Animal\\Cachorro.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\ex1Animal\\Cachorro.cs",
+              "RelativeToolTip": "Heranca\\ex1Animal\\Cachorro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:30:34.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Heranca\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\04796279164\\Desktop\\POO\\Heranca\\Pessoa.cs",
+              "RelativeToolTip": "Heranca\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T23:27:07.994Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
